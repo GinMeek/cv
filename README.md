@@ -1,3 +1,3 @@
-# My cv
+# My CV
 
-A HTML version of my cv
+A HTML version of my CV
